@@ -1,0 +1,15 @@
+{
+  "short_name": "Торгашка",
+  "name": "Торговая площадка Торгашка",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "264x255"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
